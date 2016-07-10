@@ -87,4 +87,3 @@ C:\Projects\aspdotnet web services intro\module5\ProteinTrackerWebAPI\ProteinTra
 C:\Projects\aspdotnet web services intro\module5\ProteinTrackerWebAPI\ProteinTrackerWebAPI\bin\System.Web.Http.Owin.xml
 C:\Projects\aspdotnet web services intro\module5\ProteinTrackerWebAPI\ProteinTrackerWebAPI\obj\Release\ProteinTrackerWebAPI.dll
 C:\Projects\aspdotnet web services intro\module5\ProteinTrackerWebAPI\ProteinTrackerWebAPI\obj\Release\ProteinTrackerWebAPI.pdb
-C:\Projects\aspdotnet web services intro\module5\ProteinTrackerWebAPI\ProteinTrackerWebAPI\obj\Release\ProteinTrackerWebAPI.csprojResolveAssemblyReference.cache
